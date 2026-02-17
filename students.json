@@ -1,0 +1,32 @@
+{
+    "8168170074": {
+        "course": "1-kurs",
+        "name": "Nurlan",
+        "surname": "Jubatqanov",
+        "group": "Xaliq sazlari",
+        "lat": 42.461618,
+        "lon": 59.637534,
+        "location_time": "2026-02-13 17:19:26",
+        "photo_file_id": "AgACAgIAAxkBAAIDj2mPFtVW1iT0iDTQCzEfmCteiH6HAAIqGWsb2-h4SFpGhOMg5CyFAQADAgADeAADOgQ",
+        "photo_time": "2026-02-13 17:19:33"
+    },
+    "664199512": {
+        "course": "1-kurs",
+        "name": "aafgae",
+        "surname": "sryh",
+        "group": "Vokal san’ati"
+    },
+    "5943220467": {
+        "course": "3-kurs",
+        "name": "Shhs",
+        "surname": "Hshs",
+        "group": "Zarbli asboblar",
+        "lat": 42.461578,
+        "lon": 59.637566,
+        "location_time": "2026-02-17 12:00:01",
+        "photo_file_id": "AgACAgIAAxkBAAIFt2mUEgGoqJkAAVt7-7OLbh-ozsUWgQACQxdrG5OCoEjHPn6FKsIjZAEAAwIAA3cAAzoE",
+        "photo_time": "2026-02-17 12:00:17",
+        "ustoz_photo_msg_id": 1468,
+        "ustoz_location_msg_id": 1469
+    }
+}

@@ -1,0 +1,4 @@
+pip>=25.1
+setuptools>=68.0
+wheel>=0.40
+aiogram==3.1.1
